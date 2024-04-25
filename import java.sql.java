@@ -7,7 +7,7 @@ public class CriarTabelas {
 
     public static void main(String[] args) {
         // Configurações de conexão com o banco de dados
-        String url = "jdbc:mysql://localhost:3306/seu_banco_de_dados";
+        String url = "jdbc:mysql://localhost:3306/Navit_Banco_Dados"; //Local Host exemplo.
         String usuario = "seu_usuario";
         String senha = "sua_senha";
 
