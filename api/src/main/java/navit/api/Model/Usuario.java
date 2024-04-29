@@ -16,6 +16,9 @@ public class Usuario {
     @Id
     private long id;
     private String nome;
+    private String email;
+
+    
     
 
 }
